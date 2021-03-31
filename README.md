@@ -52,7 +52,7 @@ Phala代码赏金任务设置了阶梯式奖金，不伦大神还是新手，不
 
 # FAQ
 
-### 怎样开始任务？
+>### 怎样开始任务？
 
 准备开发环境（大多数是最新的，但pruntime和phost已移至standalone / directory）：https://wiki.phala.network/en-us/docs/developer/run-a-local-development-network/
 
